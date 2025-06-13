@@ -1,9 +1,10 @@
 # Speech Signal Process Code Repository
 获取代码
 由于仓库包含大文件，请使用 ​​Git + LFS​​ 克隆：
-
+```bash
 git clone git@github.com:Loueor/Speech_Signal_Process_Code.git
 cd Speech_Signal_Process_Code
+```
 文件合并说明
 项目中的 project.zip 已拆分为多个分块文件，合并方法：
 
